@@ -1,0 +1,387 @@
+{
+    "id": "d11f780d-a4e4-493a-b111-152d485ba78e",
+    "name": "BBC",
+    "title": "BBC",
+    "type": "rss",
+    "xmlUrl": "http://localhost/bbc/rss",
+    "htmlUrl": "https://www.bbc.co.uk/news/",
+    "icon": null,
+    "newsItems": [
+        {
+            "title": "Elections 2021: Sir Keir Starmer set to reshuffle Labour's top team",
+            "description": "Party leader plans a major shake-up after losing elections to the Conservatives across England.",
+            "link": "https://www.bbc.co.uk/news/uk-politics-57047027",
+            "pubDate": "Sun, 09 May 2021 09:31:29 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Chinese rocket debris crashes into Indian Ocean - state media",
+            "description": "Most of the Chinese Long March-5b rocket reportedly disintegrated as it re-entered the atmosphere.",
+            "link": "https://www.bbc.co.uk/news/science-environment-57045058",
+            "pubDate": "Sun, 09 May 2021 09:44:37 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Rail disruption set to continue into next week after train cracks found",
+            "description": "Two rail firms continue to warn passengers not to travel after cracks were found on some trains.",
+            "link": "https://www.bbc.co.uk/news/uk-57042384",
+            "pubDate": "Sun, 09 May 2021 09:51:26 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Election results 2021: PM calls Covid recovery summit after SNP victory",
+            "description": "Boris Johnson tells leaders of the devolved nations people are \"best served when we work together\".",
+            "link": "https://www.bbc.co.uk/news/uk-57043758",
+            "pubDate": "Sun, 09 May 2021 11:17:39 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Wales election 2021: Labour set to form new Welsh government alone",
+            "description": "Election result allows them to work with parties on a \"case-by-case basis\", a minister says.",
+            "link": "https://www.bbc.co.uk/news/uk-wales-57042797",
+            "pubDate": "Sun, 09 May 2021 11:25:19 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Jerusalem: Many injured on second night of clashes",
+            "description": "Some 90 Palestinians and at least one Israeli police officer are hurt in a further night of violence.",
+            "link": "https://www.bbc.co.uk/news/world-middle-east-57044000",
+            "pubDate": "Sun, 09 May 2021 03:37:19 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Kabul attack: Blasts near school leave more than 50 dead",
+            "description": "Blasts near a Kabul school killed more than 50 people on Saturday, most of whom were girls.",
+            "link": "https://www.bbc.co.uk/news/world-asia-57046527",
+            "pubDate": "Sun, 09 May 2021 08:28:09 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Prince Michael of Kent accused of selling Kremlin access",
+            "description": "The Queen's cousin denies he has close ties to Vladimir Putin after an undercover investigation.",
+            "link": "https://www.bbc.co.uk/news/uk-57042823",
+            "pubDate": "Sun, 09 May 2021 04:17:58 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Your pictures on the theme of 'outdoor art'",
+            "description": "A selection of striking images from our readers on this week's theme.",
+            "link": "https://www.bbc.co.uk/news/in-pictures-57023047",
+            "pubDate": "Sat, 08 May 2021 23:30:27 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "The Papers: Labour's 'civil war', and PM wants UK to 'unite'",
+            "description": "Fallout from the nationwide elections continues to feature prominently on the front pages",
+            "link": "https://www.bbc.co.uk/news/blogs-the-papers-57043949",
+            "pubDate": "Sun, 09 May 2021 04:38:50 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Ian Cunningham: 'I'm 80 years old and still playing rugby'",
+            "description": "At 80 years old, Ian Cunningham is one of the oldest walking rugby players in the UK.",
+            "link": "https://www.bbc.co.uk/news/uk-northern-ireland-57013207",
+            "pubDate": "Sat, 08 May 2021 23:08:04 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Olympics: 'The Taliban wouldn’t let me cycle because I’m a woman'",
+            "description": "Masomah had to flee the Taliban in Afghanistan because she wanted to ride her bike. Now she's part of a team nominated for a Nobel Peace Prize and hopes to compete in the Olympics.",
+            "link": "https://www.bbc.co.uk/news/world-asia-57027349",
+            "pubDate": "Sat, 08 May 2021 23:04:01 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "'I thought strokes only happened to elderly people'",
+            "description": "Three young stroke survivors share their stories to help raise awareness.",
+            "link": "https://www.bbc.co.uk/news/uk-england-essex-56678966",
+            "pubDate": "Sun, 09 May 2021 01:17:05 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "ICYMI: Nine babies and a giant squid",
+            "description": "A surprise delivery for a mum in Morocco and questionable spending in Japan - news you may have missed.",
+            "link": "https://www.bbc.co.uk/news/world-57035326",
+            "pubDate": "Sun, 09 May 2021 06:54:50 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Son wins father's Bradford council seat after Covid death",
+            "description": "Mohsin Hussain, 26, said he wanted to carry on his father's legacy.",
+            "link": "https://www.bbc.co.uk/news/uk-england-leeds-57043008",
+            "pubDate": "Sat, 08 May 2021 19:10:10 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "'Our first day of freedom on American soil'",
+            "description": "Adrian Meza and his family from Nicaragua have just been released from detention by US border officials.",
+            "link": "https://www.bbc.co.uk/news/world-us-canada-57022918",
+            "pubDate": "Fri, 07 May 2021 23:18:36 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "#MeToo Serbia: 'I thought I was the only one'",
+            "description": "Balkan women are sharing their sexual assault stories after Serbian actress Milena Radulovic went public with hers.",
+            "link": "https://www.bbc.co.uk/news/world-europe-57011605",
+            "pubDate": "Fri, 07 May 2021 23:12:08 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Sophie Scholl: Student who resisted Hitler and inspires Germany",
+            "description": "Germany marks the 100th anniversary of the birth of Sophie Scholl, who was killed defying the Nazis.",
+            "link": "https://www.bbc.co.uk/news/world-europe-57008360",
+            "pubDate": "Sun, 09 May 2021 00:48:19 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Junior doctors in India's Covid crisis: 'We've grown up really fast'",
+            "description": "Covid cases in Pankti's home state increased eight-fold in her first month as a medical intern.",
+            "link": "https://www.bbc.co.uk/news/newsbeat-56993136",
+            "pubDate": "Sat, 08 May 2021 23:17:30 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Joe Ligon: America's 'longest juvenile lifer' on 68 years in prison",
+            "description": "After waiting seven decades for freedom, Joe Ligon tells the BBC how he intends to spend the rest of his days.",
+            "link": "https://www.bbc.co.uk/news/world-us-canada-57022924",
+            "pubDate": "Sun, 09 May 2021 00:55:47 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Akala: Why we need more black, working class period drama",
+            "description": "Akala speaks to Radio 1 Newsbeat about filling the gaps in historical fiction.",
+            "link": "https://www.bbc.co.uk/news/newsbeat-56894080",
+            "pubDate": "Sun, 09 May 2021 01:19:38 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "The 'smart and cheeky' Aboriginal boy teaching Australia a lesson",
+            "description": "A film about an Aboriginal boy's experience of school shines a light on Australia's failure to give all children a fair start.",
+            "link": "https://www.bbc.co.uk/news/stories-56544429",
+            "pubDate": "Fri, 07 May 2021 23:56:40 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "The misinformation bubble threatening Brazil's indigenous people",
+            "description": "Health workers report resistance because of fake content spread over WhatsApp.",
+            "link": "https://www.bbc.co.uk/news/blogs-trending-56919424",
+            "pubDate": "Sat, 08 May 2021 00:19:53 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Spy row revs up Czech-Russian tensions",
+            "description": "The Czechs and Russians, ex-communist bloc allies, are in a new diplomatic Cold War.",
+            "link": "https://www.bbc.co.uk/news/world-europe-57008363",
+            "pubDate": "Sat, 08 May 2021 00:46:54 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "India's Covid crisis delivers a blow to brand Modi",
+            "description": "Narendra Modi's carefully crafted image has taken a hit as India reels from a punishing Covid wave.",
+            "link": "https://www.bbc.co.uk/news/world-asia-india-56970569",
+            "pubDate": "Sat, 08 May 2021 00:36:28 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Superb Alvarez stops Saunders to unify super-middleweight titles",
+            "description": "Saul 'Canelo' Alvarez stops Billy Joe Saunders in the eighth round in Texas to unify the super-middleweight titles.",
+            "link": "https://www.bbc.co.uk/sport/boxing/57037558",
+            "pubDate": "Sun, 09 May 2021 06:06:04 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "‘He never scored them in training’ - Aguero and Man City’s Panenka pain",
+            "description": "Sergio Aguero misses a penalty after attempting a Panenka-style spot-kick during Manchester City's defeat by Chelsea.",
+            "link": "https://www.bbc.co.uk/sport/football/57042769",
+            "pubDate": "Sun, 09 May 2021 05:16:02 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "2021 elections: What are the results in my area?",
+            "description": "National elections in Scotland and Wales and local elections in England took place on 6 May 2021.",
+            "link": "https://www.bbc.co.uk/news/56129210",
+            "pubDate": "Thu, 06 May 2021 21:06:49 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Sir John Curtice: What the 2021 election results mean for the parties",
+            "description": "Prof Sir John Curtice says the ruling parties appear to have done well in Thursday's bumper crop of elections.",
+            "link": "https://www.bbc.co.uk/news/uk-politics-57040175",
+            "pubDate": "Sun, 09 May 2021 09:04:18 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Scottish election 2021: Results in maps and charts",
+            "description": "The picture across Scotland as the SNP win a fourth consecutive victory in the Scottish Parliament.",
+            "link": "https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57028315",
+            "pubDate": "Sun, 09 May 2021 11:29:35 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Welsh election results 2021: What's the secret behind Labour's success?",
+            "description": "Labour's fortunes in Wales seem a world away from its troubles in England, what's going on?",
+            "link": "https://www.bbc.co.uk/news/uk-wales-politics-57037388",
+            "pubDate": "Sat, 08 May 2021 12:16:27 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Elections results 2021: Andy Burnham re-elected as Greater Manchester mayor",
+            "description": "The Greater Manchester Mayor is the bookmakers' favourite to become the next Labour leader.",
+            "link": "https://www.bbc.co.uk/news/uk-england-manchester-57037359",
+            "pubDate": "Sat, 08 May 2021 16:28:42 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Elections 2021: Labour insiders on Starmer, what went wrong and how to fix it",
+            "description": "Sir Keir Starmer took charge of Labour a year ago and has faced his first challenge at the polls.",
+            "link": "https://www.bbc.co.uk/news/uk-politics-57024995",
+            "pubDate": "Fri, 07 May 2021 13:42:18 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Scottish election results: The story so far",
+            "description": "The key results and moments from the first day of counting in the Holyrood election.",
+            "link": "https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57033767",
+            "pubDate": "Fri, 07 May 2021 21:55:20 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Election results 2021: When will we know who has won?",
+            "description": "There could be a long wait for some results this year.",
+            "link": "https://www.bbc.co.uk/news/uk-politics-56581106",
+            "pubDate": "Sat, 08 May 2021 10:29:09 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Elections 2021: How to follow the results on the BBC",
+            "description": "Find out how to keep up to date with live election results on TV, radio, online and on social media.",
+            "link": "https://www.bbc.co.uk/news/uk-politics-56930132",
+            "pubDate": "Fri, 30 Apr 2021 18:25:05 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "What to expect in Scottish election",
+            "description": "Scots have cast their votes, but they will not be counted until Friday and Saturday - when will the outcome be known?",
+            "link": "https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56972971",
+            "pubDate": "Thu, 06 May 2021 21:01:52 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Which countries are on the green list for foreign holidays?",
+            "description": "A new \"traffic light\" system for travel classifies countries as green, amber or red.",
+            "link": "https://www.bbc.co.uk/news/explainers-52544307",
+            "pubDate": "Fri, 07 May 2021 18:49:19 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Covid-19 in the UK: How many coronavirus cases are there in your area?",
+            "description": "Explore the data on coronavirus in the UK and find out how many cases there are in your area.",
+            "link": "https://www.bbc.co.uk/news/uk-51768274",
+            "pubDate": "Sat, 08 May 2021 16:21:59 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Covid vaccine: How many people in the UK have been vaccinated so far?",
+            "description": "The logistics of vaccinating millions of people across the country, as more than 35 million people receive at least one dose.",
+            "link": "https://www.bbc.co.uk/news/health-55274833",
+            "pubDate": "Fri, 07 May 2021 17:23:24 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "UK holidays: When and where can I go.... and who with?",
+            "description": "The rules on having a holiday in the UK have been relaxed - but restrictions remain.",
+            "link": "https://www.bbc.co.uk/news/explainers-52646738",
+            "pubDate": "Fri, 30 Apr 2021 11:24:08 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Covid: What's the roadmap for lifting lockdown?",
+            "description": "Northern Ireland is the latest part of the UK to lift some of the restrictions designed to stop the spread of Covid-19.",
+            "link": "https://www.bbc.co.uk/news/explainers-52530518",
+            "pubDate": "Tue, 04 May 2021 16:14:20 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "What is a Covid passport and what are the plans for the NHS app?",
+            "description": "The government is considering how people could prove they are unlikely to transmit Covid.",
+            "link": "https://www.bbc.co.uk/news/explainers-55718553",
+            "pubDate": "Fri, 07 May 2021 18:37:50 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Covid: What are the social distancing rules and the rule of six?",
+            "description": "Rules on hugging and social distancing in England are being reviewed.",
+            "link": "https://www.bbc.co.uk/news/uk-51506729",
+            "pubDate": "Wed, 05 May 2021 09:07:43 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Covid: Should I be working from home or going back to the office?",
+            "description": "As lockdown restrictions ease gradually across the UK, what are the rules about returning to work?",
+            "link": "https://www.bbc.co.uk/news/business-52567567",
+            "pubDate": "Wed, 05 May 2021 16:13:36 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Covid: What refund rights are there for holidays abroad?",
+            "description": "Quarantine-free overseas holidays will be possible after 17 May, but what rights do you have if plans or rules change?",
+            "link": "https://www.bbc.co.uk/news/business-51615412",
+            "pubDate": "Fri, 07 May 2021 17:08:59 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        },
+        {
+            "title": "Covid: How do I get a lateral flow or PCR test?",
+            "description": "Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.",
+            "link": "https://www.bbc.co.uk/news/health-51943612",
+            "pubDate": "Thu, 29 Apr 2021 09:52:50 GMT",
+            "feed": "d11f780d-a4e4-493a-b111-152d485ba78e",
+            "readAt": null
+        }
+    ]
+}
